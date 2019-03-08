@@ -1,0 +1,2 @@
+coal.png, CC0-1.0, https://opengameart.org/content/yet-another-glowing-coal-pattern
+lava4.png, CC0-1.0, https://opengameart.org/content/2-seamless-lava-tiles
