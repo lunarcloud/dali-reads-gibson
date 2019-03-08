@@ -1,0 +1,2 @@
+hg11.png, CC0-1.0, https://opengameart.org/content/20-textures-for-metal-texture-creation-sets
+galvanized.jpg, CC0-1.0, https://opengameart.org/content/golgotha-textures-galvanizedjpg
