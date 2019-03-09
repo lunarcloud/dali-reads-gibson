@@ -1,2 +1,3 @@
 coal.png, CC0-1.0, https://opengameart.org/content/yet-another-glowing-coal-pattern
+fire.jpg, CC0-1.0, https://opengameart.org/content/golgotha-effects-textures-firejpg
 lava4.png, CC0-1.0, https://opengameart.org/content/2-seamless-lava-tiles
