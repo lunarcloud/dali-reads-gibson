@@ -1,1 +1,2 @@
 fabric_grey_01.png, CC0-1.0, https://opengameart.org/content/fabric-grey
+textile.png, CC0-1.0, https://opengameart.org/content/seamless-pattern-fabric-textile

@@ -1,1 +1,2 @@
 parchment.jpg, CC0-1.0, https://opengameart.org/content/parchement-textures
+scroll.png, CC0-1.0, https://opengameart.org/content/old-paper-texture

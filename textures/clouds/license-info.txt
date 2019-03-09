@@ -1,0 +1,3 @@
+cloudy.png, CC0-1.0, https://opengameart.org/content/cloudy-skies
+cloudy2.png, CC0-1.0, https://opengameart.org/content/cloudy-skies
+cloudy3.png, CC0-1.0, https://opengameart.org/content/cloudy-skies
